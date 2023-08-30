@@ -17,7 +17,7 @@ const routes = [
     {
         label:"Conversation",
         icon:MessageCircleIcon,
-        href:"/",
+        href:"/conversation",
         color:"text-sky-500"
     },
     {
